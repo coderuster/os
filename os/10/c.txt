@@ -1,0 +1,2 @@
+ls /path/to/directory  # Lists the contents of the specified directory
+cp file1.txt /path/to/destination  # Copies file1.txt to the specified destination
