@@ -1,0 +1,2 @@
+whoami  # Displays the current user's username
+man ls  # Displays the manual page for the ls command
