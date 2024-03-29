@@ -1,2 +1,0 @@
-rmdir my_directory  # Removes the directory named "my_directory"
-clear  # Clears the terminal screen

@@ -1,2 +1,0 @@
-who  # Displays information about logged-in users
-mv file1.txt /path/to/destination  # Moves file1.txt to the specified destination

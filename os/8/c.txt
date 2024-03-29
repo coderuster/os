@@ -1,2 +1,0 @@
-pwd  # Prints the current working directory
-cd /path/to/directory  # Changes the current directory to /path/to/directory

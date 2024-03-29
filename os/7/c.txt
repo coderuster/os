@@ -1,4 +1,0 @@
-cat [options] file1 file2 ...
-cat file1.txt file2.txt  # Displays the contents of file1.txt and file2.txt
-mkdir [options] directory_name
-mkdir my_directory  # Creates a directory named "my_directory"

@@ -1,4 +1,0 @@
-mv [options] source destination
-mv file1.txt /path/to/directory  # Moves file1.txt to /path/to/directory
-who [options]
-who  # Displays information about logged-in users

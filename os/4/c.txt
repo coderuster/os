@@ -1,3 +1,0 @@
-readdir: The readdir command is not directly executable in UNIX command line. It is a C library function used to read the next directory entry from a directory stream opened using opendir. The example above demonstrates its usage.
-
-To execute the opendir and readdir commands, you would compile and run the C program provided above using a C compiler such as gcc. The output will list the contents of the current directory.
