@@ -32,7 +32,7 @@ def run_command(cmd):
     return "ERROR"
 
 def main():
-    number=input("Enter the experiment number: ").strip()
+    number=input("1[threading&sync|looping shell| CAT MKDIR]\n2[pipe conecpt|fork exec|PWD CD]\n3[priority|odd even|RMDIR CLEAR]\n4[round robin|opendir readdir|ls copy]\n5[semaphore|wait exit|move who]\n6[sequential alloc|cp ls grep|whoami man]\n7[indexed file alloc|getpid close|CAT MKDIR]\n8[linked list file alloc|arithemetic|pwd cd]\n9[fcfs|big among 3|rmdir clear]\n10[bankers|close stat|listing directory copy]\11[FCFS page|factorial|who move]\n12[LRU page|opndir close|man whoami]\n13[LFU page| arithemetic|cat mkdir]\n14[paging concept|sum of n|pwd cd]\n15[SJFS scheu|fork exec|rmdir clear]\n16[first fit|arithrmetic|cat mkdir]\n17[worst fit|arithem|pwd cd]\n18[best fit|cp ls grep|whoami man]\n19[LRU page|close stat|listing dir|copy]\n20[indexed file alloc|arithem|cat mkdir]\nchoose: ").strip()
     files=['a.c','b.sh','c.txt']
     for f in files:
         cmd=get_cmd(f,number)
