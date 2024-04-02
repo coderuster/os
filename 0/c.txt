@@ -1,0 +1,147 @@
+
+1.	a. Implement the concept of threading and synchronization using C program 	(40)
+b. Explain the concept of looping using shell programming 				(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	CAT
+ii)	MKDIR
+
+2.	a. Implement pipe concept in Inter Process Communication using C program 	(40)
+b. Explain the following system calls in UNIX operating system 			(20)
+		i) fork
+		ii) exec
+c. Write the syntax and execute the following commands 				(20)
+i)	PWD
+ii)	CD 
+
+3.	a. Write a C program to implement Priority Scheduling algorithm			(40)
+b. Write a shell program to find the given number is odd or even 			(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	RMDIR
+ii)	CLEAR 
+4.	a. Write a C program to implement First Round Robin Scheduling algorithm 	(40)
+b. Execute the following commands in UNIX operating system 			(20)
+		i) opendir
+		ii) readdir
+c. Write the syntax and execute the following commands 				(20)
+i)	LS
+ii)	COPY
+5.	a. Write a C program to implement Producer-Consumer Problem using semaphore 
+    concept                                                                                                               (40)
+b. Execute the following commands in UNIX operating system 			(20)
+		i) wait
+		ii) exit
+ c. Write the syntax and execute the following commands 				(20)
+i)	MOVE
+ii)	WHO 
+
+
+6.	a. How the data is allocated sequentially, Write a C program to implement 		(40)
+b. Write a C program to implement the UNIX commands ‘cp, ls, grep’ 		(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	WHO AM I
+ii)	MAN
+
+
+7.	a. Write a C program to implement Indexed file allocation Strategy 		(40)
+b. Execute the following commands in UNIX operating system 			(20)
+		i) getpid
+		ii) close
+ c. Write the syntax and execute the following commands 				(20)
+i)	CAT
+ii)	MKDIR 
+
+
+8.	a. Write a C program to implement Linked list  file allocation Strategy 		(40)
+b. Create a shell program to perform arithmetic operations 				(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	PWD
+ii)	CD 
+
+
+9.	a. Write a C program to implement First Come First Serve Scheduling algorithm (40)
+b. Create a shell program to find the greatest among the given three numbers	(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	RMDIR
+ii)	CLEAR 
+
+10.	a. Implement bankers algorithm for deadlock detection using C program 		(40)
+b. Execute the following commands in UNIX operating system 			(20)
+		i) close
+		ii) stat
+c. Write the syntax and execute the following commands 				(20)
+i)	LISTING DIRECTORY
+ii)	COPY
+
+
+11.	a. Implement First come first serve page replacement algorithm using C program	(40)
+b. Write a shell program to find the factorial of a given number 			(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	WHO 
+ii)	MOVE
+
+
+12.	a. Implement Least Recently Used page replacement algorithm using C program 	(40)
+b. Execute the following commands in UNIX operating system		 	(20)
+		i) opendir
+		ii) close
+c. Write the syntax and execute the following commands 				(20)
+i)	MAN
+ii)	WHO AM I
+
+
+13.	a. Implement LFU page replacement algorithm using C program 			(40)
+b. Create a shell program to perform arithmetic operations 				(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	CAT
+ii)	MKDIR 
+
+14.	a. Implement the paging concept using C program 					(40)
+b. Write a shell program to find the sum of n numbers 				(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	PWD
+ii)	CD 
+
+15.	a. Write a C program to implement Shortest Job First Scheduling algorithm 	(40)
+b. Execute the following commands in UNIX operating system 			(20)
+		i) fork
+		ii) exec
+c. Write the syntax and execute the following commands 				(20)
+i)	RMDIR
+ii)	CLEAR 
+
+
+16.	a. Write a C program to implement First Fit Memory Allocation Method 		(40)
+b. Create a shell program to perform arithmetic operations 				(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	CAT
+ii)	MKDIR 
+
+17.	a. Write a C program to implement Worst Fit Memory Allocation Method 		(40)
+b. Create a shell program to perform arithmetic operations 				(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	PWD
+ii)	CD 
+
+
+18.	a. Write a C program to implement Best Fit Memory Allocation Method 		(40)
+b. Write a C program to implement the UNIX commands ‘cp, ls, grep’ 		(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	WHO AM I
+ii)	MAN
+
+
+19.	a. Implement Least Recently Used page replacement algorithm using C program 	(40)
+b. Execute the following commands in UNIX operating system 			(20)
+		i) close
+		ii) stat
+c. Write the syntax and execute the following commands 				(20)
+i)	LISTING DIRECTORY
+ii)	COPY
+
+
+20.	a. Write a C program to implement Indexed file allocation Strategy 		(40)
+b. Create a shell program to perform arithmetic operations 				(20)
+c. Write the syntax and execute the following commands 				(20)
+i)	CAT
+ ii)  MKDIR 
+
